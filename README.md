@@ -2,7 +2,7 @@
 
 ## requirements
 
-- [AutoDock Vina](https://anaconda.org/bioconda/autodock-vina)
+- [AutoDock Vina](https://autodock-vina.readthedocs.io/en/latest/)
 - [ADFR](https://ccsb.scripps.edu/projects/docking/)
 - [pymol](https://pymol.org/2/)
 - [rdkit](http://rdkit.org/)
